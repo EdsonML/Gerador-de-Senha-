@@ -8,4 +8,5 @@ margin: 80px   80px;
 .titulo{
     margim: 20 px    10 px;
     padding: 10px   20px;
+    justify-content: center;
 }
