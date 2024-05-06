@@ -4,9 +4,10 @@ color: white;
 padding: 50px  50px;
 margin: 80px   80px;
     background-color: blue;
+    justify-content: center;
 }
 .titulo{
     margim: 20 px    10 px;
     padding: 10px   20px;
-    justify-content: center;
+
 }
